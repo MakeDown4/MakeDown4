@@ -1,4 +1,4 @@
-### Olá sou Desenvolvedor Php/Laravel FullStack !
+### Olá, me chamo Vinicius e sou Desenvolvedor Php / Laravel FullStack ;)
 <div align="center">
   <a href="https://github.com/MakeDown4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MakeDown4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
