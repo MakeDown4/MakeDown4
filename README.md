@@ -1,9 +1,4 @@
 ### Olá, me chamo Vinicius e sou Desenvolvedor Php / Laravel FullStack ;)
-<div align="center">
-  <a href="https://github.com/MakeDown4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MakeDown4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvkinsler&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
